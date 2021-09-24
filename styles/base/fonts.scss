@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.eot');
+  src: local(''),
+    url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-IE8 */
+      url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.woff2')
+      format('woff2'),
+    /* Super Modern Browsers */
+      url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.woff')
+      format('woff'),
+    /* Modern Browsers */
+      url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.ttf')
+      format('truetype'),
+    /* Safari, Android, iOS */
+      url('../../apps/radio-app/src/assets/fonts/nunito-v16-latin-regular.svg#Nunito')
+      format('svg'); /* Legacy iOS */
+}

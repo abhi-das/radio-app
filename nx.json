@@ -27,12 +27,31 @@
     ]
   },
   "projects": {
+    "auth": {
+      "tags": []
+    },
+    "matui": {
+      "tags": []
+    },
+    "programms": {
+      "tags": []
+    },
+    "radio-admin-app": {
+      "tags": []
+    },
+    "radio-admin-app-e2e": {
+      "tags": [],
+      "implicitDependencies": ["radio-admin-app"]
+    },
     "radio-app": {
       "tags": []
     },
     "radio-app-e2e": {
       "tags": [],
       "implicitDependencies": ["radio-app"]
+    },
+    "radioui": {
+      "tags": []
     }
   }
 }

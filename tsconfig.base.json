@@ -14,7 +14,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@klorg/auth": ["libs/auth/src/index.ts"],
+      "@klorg/matui": ["libs/matui/src/index.ts"],
+      "@klorg/programms": ["libs/programms/src/index.ts"],
+      "@klorg/radioui": ["libs/radioui/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

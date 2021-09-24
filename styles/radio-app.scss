@@ -1,0 +1,16 @@
+// External
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+// Base
+@import './base/colors.scss';
+@import './base/fonts.scss';
+@import './base/mixins.scss';
+@import './base/config.scss';
+
+// Pages
+@import './apps/radio-app/pages/home.scss';
+@import './apps/radio-app/pages/programm-list.scss';
+
+// Shared
+@import './apps/radio-app/shared/header.scss';
+@import './apps/radio-app/shared/footer.scss';
