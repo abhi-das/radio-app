@@ -6,3 +6,4 @@
  - Bootstrap Components
  - Nx Dev Tool
  - Mono Repo Concepts
+ - NgRx Store Implementation
